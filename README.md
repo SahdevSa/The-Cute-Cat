@@ -1,2 +1,2 @@
 # Web-Development
-These are just for practice
+## This is just for fun
